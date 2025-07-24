@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Guilherme 👋</h1>
 
-<!--
-**GuilhermeSouza96/GuilhermeSouza96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌎 Based in Brazil • 💻 Data Scientist • 💡 Data-Driven • 🛠️ Automator • 🚀 Always Learning 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 I'm currently studying **Business Administration** and **Computer Science**.
+- 💼 I work in the **Customer Operations** area at **Enel X**, focusing on process automation and data solutions.
+- 📊 I enjoy building **dashboards**, **data pipelines**, and **automation tools** using Python, R, SQL, and Excel.
+- 🤝 I'm passionate about solving real-world problems with code and helping teams make smarter decisions.
+
+---
+
+### 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📈 What I Do
+
+- ⚙️ Automate repetitive tasks to boost efficiency.
+- 📑 Clean, transform, and analyze datasets.
+- 📤 Build internal tools and dashboards with **Streamlit** and **Power BI**.
+- 🔁 Develop integrations between systems using APIs and scripts.
+- 🤖 Exploring **Machine Learning** algorithms and their applications.
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/guilherme-souza-de-albuquerque/))
+- 📂 [My GitHub Repo]([https://github.com/seu-usuario/repositório](https://github.com/GuilhermeSouza96/Portfolio/tree/main))
+
+---
+
+<p align="center">
+  <em>"Turning data into action, one line of code at a time."</em>
+</p>
