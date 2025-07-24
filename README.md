@@ -38,8 +38,8 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/guilherme-souza-de-albuquerque/])
-- 📂 [My GitHub Repo]([https://github.com/GuilhermeSouza96/Portfolio/tree/main])
+- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-souza-de-albuquerque/)
+- 📂 [My GitHub Repo](https://github.com/GuilhermeSouza96/Portfolio/tree/main)
 
 ---
 
