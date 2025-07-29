@@ -40,9 +40,9 @@
 ### 💼 Portfolios
 <p align="left"> 
   <a href="https://github.com/GuilhermeSouza96/DataScience-Portfolio/tree/main" target="_blank"> 
-    <img src="https://img.shields.io/badge/Data%20Science%20Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Data Science Portfolio"> 
+    <img src="https://img.shields.io/badge/Data%20Science-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Data Science Portfolio"> 
   </a> <a href="https://github.com/GuilhermeSouza96/PythonDeveloper-Portfolio" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python%20Developer%20Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Python Developer Portfolio"> 
+    <img src="https://img.shields.io/badge/Python%20Developer-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Python Developer Portfolio"> 
   </a> 
 </p>
 
