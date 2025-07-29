@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Guilherme 👋</h1>
 
 <p align="center">
-  🌎 Based in Brazil • 💻 Data Scientist • 💡 Data-Driven • 🛠️ Automator • 🚀 Always Learning 
+  🌎 Based in Brazil • 🛠️ Python Developer • 💻 Data Scientist • 💡 Data-Driven • 🛠️ Automator • 🚀 Always Learning 
 </p>
 
 ---
@@ -32,6 +32,7 @@
 - 📑 Clean, transform, and analyze datasets.
 - 📤 Build internal tools and dashboards with **Streamlit** and **Power BI**.
 - 🔁 Develop integrations between systems using APIs and scripts.
+- 🐍 Python developer, currently learning **Django** and building APIs with **Django REST Framework**.
 - 🤖 Exploring **Machine Learning** algorithms and their applications.
 
 ---
@@ -42,7 +43,7 @@
   <a href="https://www.linkedin.com/in/guilherme-souza-de-albuquerque/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/GuilhermeSouza96/Portfolio/tree/main" target="_blank">
+  <a href="https://github.com/GuilhermeSouza96/DataScience-Portfolio/tree/main" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio">
   </a>
   <a href="mailto:guilherme.souza.albuquerque96@gmail.com" target="_blank">
