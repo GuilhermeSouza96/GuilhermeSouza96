@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/GuilhermeSouza96/DataScience-Portfolio/tree/main" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio">
+    <img src="https://img.shields.io/badge/Data%20Science%20-%20Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio">
   </a>
   <a href="mailto:guilherme.souza.albuquerque96@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
