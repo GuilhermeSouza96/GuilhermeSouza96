@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Guilherme 👋</h1>
 
 <p align="center">
-  🌎 Based in Brazil • 🛠️ Python Developer • 💻 Data Scientist • 💡 Data-Driven • 🛠️ Automator • 🚀 Always Learning 
+  🌎 Based in Brazil • 🛠️ Python Developer • 💻 Data Scientist •💡 Data-Driven • 🛠️ Automator • 🚀 Always Learning 
 </p>
 
 ---
