@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Guilherme 👋</h1>
 
 <p align="center">
-  🌎 Based in Brazil • 🛠️ Python Developer • 💻 Django • 💻 Data Scientist • 🛠️ Automator • 🚀 Always Learning 
+   🌎 Based in Brazil • 🛠️ Python Developer • 💻 Backend & API Specialist • 🚀 Always Learning
 </p>
 
 ---
@@ -9,9 +9,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently studying **Business Administration** and **Computer Science**.
-- 💼 I work in the **Customer Operations** area at **Enel X**, focusing on process automation and data solutions.
-- 📊 I enjoy building **dashboards**, **data pipelines**, and **automation tools** using Python, R, SQL, and Excel.
-- 🤝 I'm passionate about solving real-world problems with code and helping teams make smarter decisions.
+- 💼 I work in the **Customer Operations** area at **Enel X**, with a strong focus on **ETL**, **Data Analysis** and **process automation**.
+- 🧩 I specialize in building **robust APIs** and **backend services** using Python frameworks like **Django**, **Django REST Framework**, **Flask**, and **FastAPI**.
+- 🔧 I enjoy designing scalable solutions that connect systems, automate workflows, and support real-world business needs.
+
 
 ---
 
@@ -42,10 +43,12 @@
 
 - ⚙️ Automate repetitive tasks to boost efficiency.
 - 📑 Clean, transform, and analyze datasets.
-- 📤 Build internal tools and dashboards with **Streamlit** and **Power BI**.
-- 🔁 Develop integrations between systems using APIs and scripts.
-- 🐍 Python developer, currently learning **Django** and building APIs with **Django REST Framework**.
-- 🤖 Exploring **Machine Learning** algorithms and their applications.
+- ⚙️ Build and deploy RESTful APIs using **Django REST Framework**, **Flask**, and **FastAPI**.
+- 🔁 Integrate internal systems through custom services and scripts.
+- 🧠 Structure scalable backend applications to support business operations.
+- 📤 Deliver internal tools and dashboards with **Streamlit** and **Power BI**.
+- 🛠️ Automate processes and data pipelines to save time and improve accuracy.
+- 💡 Constantly learning and exploring advanced Python development techniques.
 
 ---
 
@@ -74,5 +77,5 @@
 ---
 
 <p align="center">
-  <em>"Turning data into action, one line of code at a time."</em>
+  <em>"Crafting powerful backends that make things work — clean, fast, and scalable."</em>
 </p>
